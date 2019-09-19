@@ -7,7 +7,7 @@ Vue.use(Vuetify)
 
 export default new Vuetify({
   icons: {
-    iconfont: "md" || "mdi",
+    iconfont: "md" || "mdi"
   },
   theme: {
     // dark: true
@@ -16,4 +16,4 @@ export default new Vuetify({
     locales: { ja },
     current: "ja"
   }
-});
+})
